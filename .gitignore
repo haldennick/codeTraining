@@ -6179,3 +6179,7 @@ env/Lib/site-packages/django/views/templates/technical_500.txt
 env/Scripts/django-admin.exe
 env/Scripts/django-admin.py
 env/Scripts/__pycache__/django-admin.cpython-38.pyc
+django_training/django_training/__pycache__/__init__.cpython-38.pyc
+django_training/django_training/__pycache__/settings.cpython-38.pyc
+django_training/django_training/__pycache__/urls.cpython-38.pyc
+django_training/django_training/__pycache__/wsgi.cpython-38.pyc
